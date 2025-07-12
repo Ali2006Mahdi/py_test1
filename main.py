@@ -1,7 +1,7 @@
 import random
 from datetime import datetime, timedelta
 
-print("Hello, welcome to the coffee online shop")
+print("Hello, welcome to the coffee shop")
 name = input("May I have your name? ")
 
 print("Welcome " + name + " to our shop!")
